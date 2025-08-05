@@ -1,6 +1,4 @@
 # 💫 About Me:
-I'm a recent Software Engineering grad from McMaster, passionate about backend systems, automation, and AI/ML.
-
 Hi, I’m Harsh, a recent Software Engineering graduate from McMaster University, currently looking for a full-time software developer role.
 
 I’ve interned at **Ford** and **PAL Aerospace**, where I worked on backend systems, automation tools, and DevOps pipelines using technologies like **Python, Go, Ansible, and Docker**. Most recently, I’ve worked on AI validation at **Data Annotation Tech**, combining my Python skills with a focus on model accuracy and reliability.
